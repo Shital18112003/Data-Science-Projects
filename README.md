@@ -51,5 +51,3 @@ It includes:
 ## ⭐️ Show Support
 
 If you find this project helpful, feel free to give it a star ⭐ and follow for more
-
-If you find this project helpful, feel free to give it a star ⭐ and follow for more
